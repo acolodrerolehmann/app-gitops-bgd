@@ -1,0 +1,4 @@
+cluster:
+  name: testcluster2
+  address: "https://api.testcluster2:6443"
+  env: test

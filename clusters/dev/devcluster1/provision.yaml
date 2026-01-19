@@ -1,0 +1,4 @@
+cluster:
+  name: devcluster1
+  address: "https://api.devcluster1:6443"
+  env: development
